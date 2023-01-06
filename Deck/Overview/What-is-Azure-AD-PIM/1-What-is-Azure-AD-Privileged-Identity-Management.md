@@ -135,11 +135,11 @@ In PIM, the **permanent eligible** role assignment category duration is a role a
 
 ##
 
-In PIM, the **permanent active** role assignment category duration is a role assignment where a user can always use the role without performing any actions.
+In PIM, the `_____` role assignment category duration is a role assignment where a user can always use the role without performing any actions.
 
 %
 
-In PIM, the `_____` role assignment category duration is a role assignment where a user can always use the role without performing any actions.
+In PIM, the **permanent active** role assignment category duration is a role assignment where a user can always use the role without performing any actions.
 
 ##
 
@@ -309,11 +309,11 @@ Privileged Identity Management supports the following scenarios:
 
 ##
 
-In Privileged Identity Management (PIM), you can now assign eligibility for membership or ownership of privileged access `_____`. Starting with this preview, you can assign Azure Active Directory (Azure AD) built-in roles to cloud `_____` and use PIM to manage group member and owner eligibility and activation. For more information about role-assignable `_____` in Azure AD, see Use Azure AD `_____` to manage role assignments.
+In Privileged Identity Management (PIM), you can now assign eligibility for membership or ownership of privileged access `_____`. Starting with this preview, you can assign Azure Active Directory (Azure AD) built-in roles to cloud `_____` and use PIM to manage group member and owner eligibility and activation
 
 %
 
-In Privileged Identity Management (PIM), you can now assign eligibility for membership or ownership of privileged access **groups**. Starting with this preview, you can assign Azure Active Directory (Azure AD) built-in roles to cloud **groups** and use PIM to manage group member and owner eligibility and activation. For more information about role-assignable **groups** in Azure AD, see Use Azure AD **groups** to manage role assignments.
+In Privileged Identity Management (PIM), you can now assign eligibility for membership or ownership of privileged access **groups**. Starting with this preview, you can assign Azure Active Directory (Azure AD) built-in roles to cloud **groups** and use PIM to manage group member and owner eligibility and activation
 
 ##
 
